@@ -24,7 +24,7 @@ export default function Home() {
         <a href="https://github.com/madebylemon">GitHub</a>
       </div>
       <p>
-        Hi, I'm James! I love building data pipelines, web apps, and sharing what I learn. Currently working as a Data Engineer and always exploring new technologies. When I'm not coding, you’ll find me spending time with my family, playing tennis, or cooking a good meal.
+        Hi, I&apos;m James! I love building data pipelines, web apps, and sharing what I learn. Currently working as a Data Engineer and always exploring new technologies. When I'm not coding, you’ll find me spending time with my family, playing tennis, or cooking a good meal.
       </p>
       {/* Where Section */}
         <section style={{ textAlign: "center", marginBottom: "2.5rem" }}>
